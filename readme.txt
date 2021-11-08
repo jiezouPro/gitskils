@@ -1,1 +1,1 @@
-Git is a free soft ware
+Creating a new branch is quick..
